@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-02T13:28:56.073Z</updated>
+  <updated>2023-03-02T14:30:17.600Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>游记，但是提瓦特</title>
+    <link href="http://example.com/2023/03/02/04/"/>
+    <id>http://example.com/2023/03/02/04/</id>
+    <published>2023-03-02T13:55:59.192Z</published>
+    <updated>2023-03-02T14:30:17.600Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;无尽的沙暴搅动着天穹，掩埋着曾经阿赫玛尔的棋盘。血红的光芒照亮了峡谷，扶着残垣复行数十步,豁然开朗。是一片沙漠中的绿洲，据说曾是塔尼特部族的营地，如今只空余棘冠鳄盘踞。教令院的来客坦吉介绍了他的来意——消失的塔尼特部族和来自雨林的教化，沙漠中的乐土也埋葬了不少秘密啊。教令院</summary>
+        
+      
+    
+    
+    
+    <category term="原神" scheme="http://example.com/categories/%E5%8E%9F%E7%A5%9E/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>无人注意的盖伊</title>
