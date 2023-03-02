@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-30T11:16:00.375Z</updated>
+  <updated>2023-03-02T13:25:03.999Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,32 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2023/03/02/hello-world/"/>
-    <id>http://example.com/2023/03/02/hello-world/</id>
-    <published>2023-03-02T11:35:00.002Z</published>
-    <updated>2023-01-30T11:16:00.375Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>关于技术管理体系的思考</title>
-    <link href="http://example.com/2023/03/02/202303011047/"/>
-    <id>http://example.com/2023/03/02/202303011047/</id>
+    <link href="http://example.com/2023/03/02/01/"/>
+    <id>http://example.com/2023/03/02/01/</id>
     <published>2023-03-02T11:34:59.990Z</published>
-    <updated>2023-03-02T12:20:01.141Z</updated>
+    <updated>2023-03-02T13:25:03.999Z</updated>
     
     
       
@@ -55,30 +34,7 @@
     
     
     
-    
-    <category term="diary" scheme="http://example.com/tags/diary/"/>
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://example.com/2023/03/02/20230301/"/>
-    <id>http://example.com/2023/03/02/20230301/</id>
-    <published>2023-03-02T11:34:59.988Z</published>
-    <updated>2023-03-01T16:03:03.939Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;pre&gt;&lt;code&gt;以qq号作引子，或许不错。
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;​	已忘记了当时是什么想法，小学的时候我注册了很多qq号。不如以现在的作用假以当时的幼稚想法吧。每次升学，便换一个qq号，仿佛重新开始一段人生。并不是因为有校园霸凌之类的阴影，而是事情就是这样自然</summary>
-        
-      
-    
-    
+    <category term="想法" scheme="http://example.com/categories/%E6%83%B3%E6%B3%95/"/>
     
     
   </entry>
