@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-02T13:25:03.999Z</updated>
+  <updated>2023-03-02T13:28:56.073Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,55 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>无人注意的盖伊</title>
+    <link href="http://example.com/2023/03/02/02/"/>
+    <id>http://example.com/2023/03/02/02/</id>
+    <published>2023-03-02T11:35:00.006Z</published>
+    <updated>2023-03-02T13:28:56.073Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;盖伊：“唉，天天守门，哪里有什么工作细节能写···”&lt;/p&gt;
+&lt;p&gt;盖伊：“不，不如说是连工作内容都没有啊···”&lt;/p&gt;
+&lt;p&gt;旅行者：“你怎么了?”&lt;/p&gt;
+&lt;p&gt;盖伊：“哦，这个啊···是我老爹的事，他叫特纳，在晨曦酒庄工作。我当了西风骑士之后，他一直很高兴，来信也尽</summary>
+        
+      
+    
+    
+    
+    <category term="摘抄" scheme="http://example.com/categories/%E6%91%98%E6%8A%84/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>完美</title>
+    <link href="http://example.com/2023/03/02/00/"/>
+    <id>http://example.com/2023/03/02/00/</id>
+    <published>2023-03-02T11:35:00.004Z</published>
+    <updated>2023-03-02T13:28:52.960Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;2023&amp;#x2F;1&amp;#x2F;30</summary>
+        
+      
+    
+    
+    
+    <category term="想法" scheme="http://example.com/categories/%E6%83%B3%E6%B3%95/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>关于技术管理体系的思考</title>
@@ -29,6 +78,30 @@
         
         
     <summary type="html">&lt;p&gt;$\quad \quad$最近好像质疑美国登月真实性的言论盛行，偶然间无意刷到了这样一个回答[&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="想法" scheme="http://example.com/categories/%E6%83%B3%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>回首往事</title>
+    <link href="http://example.com/2023/03/02/03/"/>
+    <id>http://example.com/2023/03/02/03/</id>
+    <published>2023-03-02T11:34:59.988Z</published>
+    <updated>2023-03-02T13:28:57.780Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;以qq号作引子，或许不错。&lt;/p&gt;
+&lt;p&gt;已忘记了当时是什么想法，小学的时候我注册了很多qq号。不如以现在的作用假以当时的幼稚想法吧。每次升学，便换一个qq号，仿佛重新开始一段人生。并不是因为有校园霸凌之类的阴影，而是事情就是这样自然而然地发生了。与之相称的便是之前的同学并</summary>
         
       
     
