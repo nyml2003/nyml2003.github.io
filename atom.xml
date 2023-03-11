@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-02T15:09:25.430Z</updated>
+  <updated>2023-03-11T18:30:08.954Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,53 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>js入门</title>
+    <link href="http://example.com/2023/03/12/learnJs/"/>
+    <id>http://example.com/2023/03/12/learnJs/</id>
+    <published>2023-03-11T18:00:36.584Z</published>
+    <updated>2023-03-11T18:30:08.954Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;例题1：练习：在新生欢迎会上，你已经拿到了新同学的名单，请排序后显示：&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>用c++实现一个集合类</title>
+    <link href="http://example.com/2023/03/04/mySet/"/>
+    <id>http://example.com/2023/03/04/mySet/</id>
+    <published>2023-03-04T14:29:06.269Z</published>
+    <updated>2023-03-04T15:45:15.942Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;设计要求&quot;&gt;&lt;a href=&quot;#设计要求&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="数据结构" scheme="http://example.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>一篇科幻</title>
