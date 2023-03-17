@@ -32,6 +32,17 @@
       </categories>
   </entry>
   <entry>
+    <title>游记，但是提瓦特</title>
+    <url>/2023/03/02/04/</url>
+    <content><![CDATA[<p>无尽的沙暴搅动着天穹，掩埋着曾经阿赫玛尔的棋盘。血红的光芒照亮了峡谷，扶着残垣复行数十步,豁然开朗。是一片沙漠中的绿洲，据说曾是塔尼特部族的营地，如今只空余棘冠鳄盘踞。教令院的来客坦吉介绍了他的来意——消失的塔尼特部族和来自雨林的教化，沙漠中的乐土也埋葬了不少秘密啊。教令院态度的改变又意味着建构于圣树之上的须弥城局势的何种动向呢？走出营地，沿大路南下，避开拦路的镀金旅团，在巍峨的草神雕像处继续我们的东行。</p>
+<p>…</p>
+<p>穿过石门，便是北地的明冠，风神的领地——蒙德。终年不化的雪山的冰山融水构建了蒙德与璃月的自然边界，也灌溉了蒙德最负盛名的葡萄产业。莱艮芬德家的晨曦酒庄坐落于此。造访酒庄时轻抿一口葡萄酒，映着烛光，围着壁炉，真是惬意。酒业行会执行主席埃泽告诉我：多亏了巴巴托斯大人驱散风雪，湿润的西风抚摸着大地，葡萄才能甜蜜多汁。</p>
+]]></content>
+      <categories>
+        <category>原神</category>
+      </categories>
+  </entry>
+  <entry>
     <title>回首往事</title>
     <url>/2023/03/02/03/</url>
     <content><![CDATA[<p>以qq号作引子，或许不错。</p>
@@ -49,17 +60,6 @@
 ]]></content>
       <categories>
         <category>想法</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>游记，但是提瓦特</title>
-    <url>/2023/03/02/04/</url>
-    <content><![CDATA[<p>无尽的沙暴搅动着天穹，掩埋着曾经阿赫玛尔的棋盘。血红的光芒照亮了峡谷，扶着残垣复行数十步,豁然开朗。是一片沙漠中的绿洲，据说曾是塔尼特部族的营地，如今只空余棘冠鳄盘踞。教令院的来客坦吉介绍了他的来意——消失的塔尼特部族和来自雨林的教化，沙漠中的乐土也埋葬了不少秘密啊。教令院态度的改变又意味着建构于圣树之上的须弥城局势的何种动向呢？走出营地，沿大路南下，避开拦路的镀金旅团，在巍峨的草神雕像处继续我们的东行。</p>
-<p>…</p>
-<p>穿过石门，便是北地的明冠，风神的领地——蒙德。终年不化的雪山的冰山融水构建了蒙德与璃月的自然边界，也灌溉了蒙德最负盛名的葡萄产业。莱艮芬德家的晨曦酒庄坐落于此。造访酒庄时轻抿一口葡萄酒，映着烛光，围着壁炉，真是惬意。酒业行会执行主席埃泽告诉我：多亏了巴巴托斯大人驱散风雪，湿润的西风抚摸着大地，葡萄才能甜蜜多汁。</p>
-]]></content>
-      <categories>
-        <category>原神</category>
       </categories>
   </entry>
   <entry>
@@ -162,6 +162,27 @@
       </categories>
   </entry>
   <entry>
+    <title>js入门</title>
+    <url>/2023/03/12/learnJs/</url>
+    <content><![CDATA[<p>例题1：练习：在新生欢迎会上，你已经拿到了新同学的名单，请排序后显示：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">欢迎XXX，XXX，XXX和XXX同学！</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="meta">&#x27;use strict&#x27;</span>;</span><br><span class="line"><span class="keyword">var</span> arr = [<span class="string">&#x27;小明&#x27;</span>, <span class="string">&#x27;小红&#x27;</span>, <span class="string">&#x27;大军&#x27;</span>, <span class="string">&#x27;阿黄&#x27;</span>];</span><br><span class="line">arr.<span class="title function_">sort</span>();</span><br><span class="line"><span class="keyword">var</span> last=arr.<span class="title function_">pop</span>();</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">`欢迎<span class="subst">$&#123;arr.join(<span class="string">&quot;，&quot;</span>)&#125;</span>和<span class="subst">$&#123;last&#125;</span>同学！`</span>)</span><br></pre></td></tr></table></figure>
+
+<p>其中用到了</p>
+<p>1.数组的排序sort()</p>
+<p>2.数组的push和pop</p>
+<p>3.反引号（暂时理解为c中printf中的”%d”之类的）</p>
+<p>4.${name}代表name字符串</p>
+<p>5.数组的join函数，输出时很方便，js应该挺需要这种</p>
+<p>6.’use strict’,语句后一定要加;，var定义变量，动态类型</p>
+<p>7.console.log()和alert()</p>
+]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+  </entry>
+  <entry>
     <title>一篇科幻</title>
     <url>/2023/03/02/0B/</url>
     <content><![CDATA[<p>赵应生还依稀记得高中物理老师在面前跳脚的样子。</p>
@@ -256,24 +277,15 @@
       </categories>
   </entry>
   <entry>
-    <title>js入门</title>
-    <url>/2023/03/12/learnJs/</url>
-    <content><![CDATA[<p>例题1：练习：在新生欢迎会上，你已经拿到了新同学的名单，请排序后显示：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">欢迎XXX，XXX，XXX和XXX同学！</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="meta">&#x27;use strict&#x27;</span>;</span><br><span class="line"><span class="keyword">var</span> arr = [<span class="string">&#x27;小明&#x27;</span>, <span class="string">&#x27;小红&#x27;</span>, <span class="string">&#x27;大军&#x27;</span>, <span class="string">&#x27;阿黄&#x27;</span>];</span><br><span class="line">arr.<span class="title function_">sort</span>();</span><br><span class="line"><span class="keyword">var</span> last=arr.<span class="title function_">pop</span>();</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">`欢迎<span class="subst">$&#123;arr.join(<span class="string">&quot;，&quot;</span>)&#125;</span>和<span class="subst">$&#123;last&#125;</span>同学！`</span>)</span><br></pre></td></tr></table></figure>
-
-<p>其中用到了</p>
-<p>1.数组的排序sort()</p>
-<p>2.数组的push和pop</p>
-<p>3.反引号（暂时理解为c中printf中的”%d”之类的）</p>
-<p>4.${name}代表name字符串</p>
-<p>5.数组的join函数，输出时很方便，js应该挺需要这种</p>
-<p>6.’use strict’,语句后一定要加;，var定义变量，动态类型</p>
-<p>7.console.log()和alert()</p>
+    <title>离散贝多芬（背多分）</title>
+    <url>/2023/03/17/discreteMath/</url>
+    <content><![CDATA[<p>E:基本等价关系</p>
+<p>幂等律<br>$$<br>G \vee G&#x3D;G \<br>G \wedge G &#x3D;G<br>$$<br>交换律<br>$$<br>G \vee H&#x3D;H \vee G \<br>G \wedge H&#x3D;H \wedge G<br>$$<br>结合律<br>$$<br>G \vee (H \vee S)&#x3D;(G \vee H) \vee S \<br>G \wedge (H \wedge S)&#x3D;(G \wedge H) \wedge S<br>$$<br>同一律<br>$$<br>G \vee 0 &#x3D;G \<br>G \wedge 1&#x3D; G<br>$$<br>零律<br>$$<br>G \vee 1&#x3D;1 \<br>G \wedge 0&#x3D;0<br>$$<br>分配律<br>$$<br>G \vee (H \wedge S)&#x3D;(G \vee H) \wedge (G \vee S) \<br>G \wedge (H \vee S)&#x3D;(G \wedge H) \vee (G \wedge S)<br>$$<br>吸收律<br>$$<br>G \vee (G \wedge H)&#x3D;G \<br>G \wedge (G \vee H)&#x3D;G<br>$$<br>矛盾律<br>$$<br>G \wedge \neg G&#x3D;0<br>$$<br>排中律<br>$$<br>G \vee \neg G &#x3D;1<br>$$<br>双重否定律<br>$$<br>\neg(\neg G)&#x3D;G<br>$$<br>德摩根律<br>$$<br>\neg (G \vee H)&#x3D;\neg G \wedge \neg H \<br>\neg (G \wedge H)&#x3D;\neg G \vee \neg H<br>$$<br>蕴涵式<br>$$<br>G \rightarrow H&#x3D;\neg G \vee H<br>$$<br>假言易位<br>$$<br>G \rightarrow H&#x3D;\neg H \rightarrow \neg G<br>$$<br>等价式<br>$$<br>G \leftrightarrow H&#x3D;(G \rightarrow H) \vee (H \rightarrow G)&#x3D;(\neg G \vee H) \wedge (\neg H \vee G)<br>$$<br>等价否定等式<br>$$<br>G \leftrightarrow H&#x3D;\neg G \leftrightarrow \neg H<br>$$<br>归谬论<br>$$<br>(G \rightarrow H) \wedge (G \rightarrow \neg H) &#x3D; \neg G<br>$$</p>
+<p>I:基本蕴涵关系</p>
+<p>简化规则<br>$$<br>G \wedge H \Rightarrow G \<br>G \wedge H \Rightarrow H<br>$$<br>添加规则<br>$$<br>G \Rightarrow G \vee H \<br>H \Rightarrow G \vee H<br>$$<br>没有名字的蕴涵关系<br>$$<br>\neg G \Rightarrow G \rightarrow H \<br>H \Rightarrow G \rightarrow H \<br>\neg(G \rightarrow H) \Rightarrow G \<br>\neg(G \rightarrow H) \Rightarrow \neg H \<br>G,H \Rightarrow G \wedge H \<br>$$<br>选言三段论<br>$$<br>\neg G, G \vee H \Rightarrow H \<br>\neg G, G \overline \vee H \Rightarrow H<br>$$<br>肯定前件式<br>$$<br>G,G \rightarrow H \Rightarrow H<br>$$<br>否定后件式<br>$$<br>\neg H, G \rightarrow H \Rightarrow \neg G<br>$$<br>假言三段论<br>$$<br>G \rightarrow H,H \rightarrow I \Rightarrow G \rightarrow I<br>$$<br>二难推论<br>$$<br>G \vee H,G \rightarrow I, H \rightarrow I\Rightarrow I<br>$$</p>
 ]]></content>
       <categories>
-        <category>前端</category>
+        <category>数学</category>
       </categories>
   </entry>
 </search>

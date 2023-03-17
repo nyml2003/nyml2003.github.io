@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-11T18:30:08.954Z</updated>
+  <updated>2023-03-17T14:47:54.529Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>离散贝多芬（背多分）</title>
+    <link href="http://example.com/2023/03/17/discreteMath/"/>
+    <id>http://example.com/2023/03/17/discreteMath/</id>
+    <published>2023-03-17T13:33:15.185Z</published>
+    <updated>2023-03-17T14:47:54.529Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;E:基本等价关系&lt;/p&gt;
+&lt;p&gt;幂等律&lt;br&gt;$$&lt;br&gt;G \vee G&amp;#x3D;G \&lt;br&gt;G \wedge G &amp;#x3D;G&lt;br&gt;$$&lt;br&gt;交换律&lt;br&gt;$$&lt;br&gt;G \vee H&amp;#x3D;H \vee G \&lt;br&gt;G \wedge H&amp;#x3D;H</summary>
+        
+      
+    
+    
+    
+    <category term="数学" scheme="http://example.com/categories/%E6%95%B0%E5%AD%A6/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>js入门</title>
