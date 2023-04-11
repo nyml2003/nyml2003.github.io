@@ -65,29 +65,6 @@
   </entry>
   
   <entry>
-    <title>用c++实现一个集合类</title>
-    <link href="http://example.com/2023/03/04/mySet/"/>
-    <id>http://example.com/2023/03/04/mySet/</id>
-    <published>2023-03-04T14:29:06.269Z</published>
-    <updated>2023-03-04T15:45:15.942Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h3 id=&quot;设计要求&quot;&gt;&lt;a href=&quot;#设计要求&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="数据结构" scheme="http://example.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>一篇科幻</title>
     <link href="http://example.com/2023/03/02/0B/"/>
     <id>http://example.com/2023/03/02/0B/</id>
@@ -204,29 +181,6 @@
     
     
     <category term="原神" scheme="http://example.com/categories/%E5%8E%9F%E7%A5%9E/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>蓝桥杯python常用库及其用法</title>
-    <link href="http://example.com/2023/03/02/05/"/>
-    <id>http://example.com/2023/03/02/05/</id>
-    <published>2023-03-02T14:54:21.691Z</published>
-    <updated>2023-03-02T15:12:58.817Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h3 id=&quot;正则表达式&quot;&gt;&lt;a href=&quot;#正则表达式&quot; class=&quot;headerlink&quot; title=&quot;正则表达式&quot;&gt;&lt;/a&gt;正则表达式&lt;/h3&gt;&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
-        
-      
-    
-    
-    
-    <category term="蓝桥杯" scheme="http://example.com/categories/%E8%93%9D%E6%A1%A5%E6%9D%AF/"/>
     
     
   </entry>
