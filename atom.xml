@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-17T14:47:54.529Z</updated>
+  <updated>2023-04-12T16:34:45.325Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>feedback</title>
+    <link href="http://example.com/2023/04/12/feedback/"/>
+    <id>http://example.com/2023/04/12/feedback/</id>
+    <published>2023-04-12T15:51:22.375Z</published>
+    <updated>2023-04-12T16:34:45.325Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这篇文章应该是对李坤嵘之前文章的驳论。但也许我其实什么都没看懂，最后应该还是自说自话。或者说我就说个杠精吧。&lt;/p&gt;
+&lt;p&gt;他对“怪人”概念的认定分为2类，一是“显性怪人”：“他们不合群，有个性，但不是社会欣赏的那种个性，行为怪异，思想惊世骇俗”；二是“隐性怪人”，其特征有</summary>
+        
+      
+    
+    
+    
+    <category term="想法" scheme="http://example.com/categories/%E6%83%B3%E6%B3%95/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>离散贝多芬（背多分）</title>
